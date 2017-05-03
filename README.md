@@ -1,2 +1,2 @@
 # projcssd
-Teste de funcionalidade, 
+Teste de funcionalidade.
