@@ -1,2 +1,2 @@
 # projetocss
-Teste Básico! 
+Programação java utilizando o conceito de orientação a objetos!
